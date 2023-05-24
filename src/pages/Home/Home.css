@@ -1,0 +1,7 @@
+.Home {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 80vw;
+}
